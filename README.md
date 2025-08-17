@@ -10,6 +10,14 @@ I created this repository to document my progress with LeetCode problems, improv
 
 Each problem is organized in its own directory with the following naming convention:
 
+# LeetCode Practice
+
+This repository contains my solutions to various LeetCode problems as part of my ongoing practice and learning journey in data structures and algorithms.
+
+## Repository Structure
+
+Each problem is organized in its own directory with the following naming convention:
+
 ```
 XXXX-problem-name/
     XXXX-problem-name.py
@@ -18,33 +26,45 @@ XXXX-problem-name/
 
 Where:
 
-- `XXXX` is the LeetCode problem number
-- Each directory contains the solution file and problem description
+- `XXXX` is the LeetCode problem number (with leading zeros)
+- `problem-name` is the name of the problem
+- Each directory contains:
+  - The solution file (`.py` file)
+  - A `README.md` with the problem description
 
-## My Approach
 
-When solving problems, I focus on:
+## Approach
 
-- Writing clean, efficient code
-- Implementing optimal algorithms
-- Understanding multiple approaches
-- Documenting my thought process
+In this repository, I focus on:
 
-## How to Use
+- Writing clean and efficient code
+- Using optimal algorithms to solve problems
+- Understanding different approaches to solve the same problem
+- Improving my problem-solving skills
 
-- Browse the repository to explore solutions by problem number
-- Each solution includes comments explaining the approach
-- Problem statements are preserved in the README files
+## Goals
+
+- Strengthen my understanding of data structures and algorithms
+- Improve my problem-solving skills
+- Prepare for technical interviews
+- Track my progress over time
+
+## Usage
+
+Feel free to explore the solutions. Each solution is documented with:
+
+- The problem statement (in the README.md file)
+- My implementation of the solution
+
+## Future Improvements
+
+- Add time and space complexity analysis for each solution
+- Implement solutions in multiple programming languages
+- Add detailed explanations of the approach used for each problem
 
 ## License
 
-This project is licensed under the MIT License.
-
----
-
-Happy Coding! 👨‍💻
-
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
