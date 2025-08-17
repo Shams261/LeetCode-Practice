@@ -20,13 +20,6 @@ Where:
   - The solution file (`.py` file)
   - A `README.md` with the problem description
 
-## Problems Solved
-
-| #   | Problem                                           | Difficulty | Solution                                               |
-| --- | ------------------------------------------------- | ---------- | ------------------------------------------------------ |
-| 1   | [Two Sum](0001-two-sum/README.md)                 | Easy       | [Python](0001-two-sum/0001-two-sum.py)                 |
-| 7   | [Reverse Integer](0007-reverse-integer/README.md) | Medium     | [Python](0007-reverse-integer/0007-reverse-integer.py) |
-
 ## Approach
 
 In this repository, I focus on:
