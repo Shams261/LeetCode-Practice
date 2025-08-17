@@ -56,3 +56,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Happy Coding! 👨‍💻
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
