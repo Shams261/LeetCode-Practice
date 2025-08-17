@@ -1,17 +1,5 @@
 # LeetCode Practice
 
-This repository contains my solutions to various LeetCode problems as part of my ongoing journey to improve my understanding of data structures and algorithms.
-
-## About
-
-I created this repository to document my progress with LeetCode problems, improve my coding skills, and prepare for technical interviews.
-
-## Repository Structure
-
-Each problem is organized in its own directory with the following naming convention:
-
-# LeetCode Practice
-
 This repository contains my solutions to various LeetCode problems as part of my ongoing practice and learning journey in data structures and algorithms.
 
 ## Repository Structure
@@ -31,7 +19,6 @@ Where:
 - Each directory contains:
   - The solution file (`.py` file)
   - A `README.md` with the problem description
-
 
 ## Approach
 
