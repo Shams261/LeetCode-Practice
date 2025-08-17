@@ -1,6 +1,10 @@
 # LeetCode Practice
 
-This repository contains my solutions to various LeetCode problems as part of my ongoing practice and learning journey in data structures and algorithms.
+This repository contains my solutions to various LeetCode problems as part of my ongoing journey to improve my understanding of data structures and algorithms.
+
+## About
+
+I created this repository to document my progress with LeetCode problems, improve my coding skills, and prepare for technical interviews.
 
 ## Repository Structure
 
@@ -14,57 +18,34 @@ XXXX-problem-name/
 
 Where:
 
-- `XXXX` is the LeetCode problem number (with leading zeros)
-- `problem-name` is the name of the problem
-- Each directory contains:
-  - The solution file (`.py` file)
-  - A `README.md` with the problem description
+- `XXXX` is the LeetCode problem number
+- Each directory contains the solution file and problem description
 
-## Approach
+## My Approach
 
-In this repository, I focus on:
+When solving problems, I focus on:
 
-- Writing clean and efficient code
-- Using optimal algorithms to solve problems
-- Understanding different approaches to solve the same problem
-- Improving my problem-solving skills
+- Writing clean, efficient code
+- Implementing optimal algorithms
+- Understanding multiple approaches
+- Documenting my thought process
 
-## Goals
+## How to Use
 
-- Strengthen my understanding of data structures and algorithms
-- Improve my problem-solving skills
-- Prepare for technical interviews
-- Track my progress over time
-
-## Usage
-
-Feel free to explore the solutions. Each solution is documented with:
-
-- The problem statement (in the README.md file)
-- My implementation of the solution
-
-## Future Improvements
-
-- Add time and space complexity analysis for each solution
-- Implement solutions in multiple programming languages
-- Add detailed explanations of the approach used for each problem
+- Browse the repository to explore solutions by problem number
+- Each solution includes comments explaining the approach
+- Problem statements are preserved in the README files
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ---
 
 Happy Coding! 👨‍💻
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0021-merge-two-sorted-lists](https://github.com/Shams261/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
-## Recursion
-|  |
-| ------- |
-| [0021-merge-two-sorted-lists](https://github.com/Shams261/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
-<!---LeetCode Topics End-->
+This project is licensed under the MIT License.
+
+---
+
+Happy Coding! 👨‍💻
