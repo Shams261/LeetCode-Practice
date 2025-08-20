@@ -56,3 +56,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Happy Coding! 👨‍💻
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Shams261/LeetCode-Practice/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Shams261/LeetCode-Practice/tree/master/0283-move-zeroes) |
+<!---LeetCode Topics End-->
