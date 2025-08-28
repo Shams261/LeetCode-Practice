@@ -65,16 +65,19 @@ Happy Coding! 👨‍💻
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shams261/LeetCode-Practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shams261/LeetCode-Practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Shams261/LeetCode-Practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +86,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,4 +95,5 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
