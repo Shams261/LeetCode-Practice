@@ -63,6 +63,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Shams261/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shams261/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -101,5 +102,10 @@ Happy Coding! 👨‍💻
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shams261/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shams261/LeetCode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shams261/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
