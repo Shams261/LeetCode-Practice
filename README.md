@@ -64,6 +64,7 @@ Happy Coding! 👨‍💻
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Shams261/LeetCode-Practice/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/Shams261/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shams261/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -108,4 +109,8 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shams261/LeetCode-Practice/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Shams261/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
