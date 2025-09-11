@@ -63,6 +63,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Shams261/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shams261/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Shams261/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
@@ -85,6 +86,7 @@ Happy Coding! 👨‍💻
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shams261/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -108,6 +110,7 @@ Happy Coding! 👨‍💻
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shams261/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shams261/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
