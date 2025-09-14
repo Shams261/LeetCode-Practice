@@ -65,6 +65,7 @@ Happy Coding! 👨‍💻
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Shams261/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shams261/LeetCode-Practice/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Shams261/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Shams261/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shams261/LeetCode-Practice/tree/master/0283-move-zeroes) |
@@ -75,6 +76,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Shams261/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Shams261/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shams261/LeetCode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -100,6 +102,7 @@ Happy Coding! 👨‍💻
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shams261/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
