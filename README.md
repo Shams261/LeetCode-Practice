@@ -68,6 +68,7 @@ Happy Coding! 👨‍💻
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shams261/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Shams261/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Shams261/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Shams261/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Shams261/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Shams261/LeetCode-Practice/tree/master/0118-pascals-triangle) |
@@ -91,6 +92,7 @@ Happy Coding! 👨‍💻
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shams261/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shams261/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shams261/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
@@ -117,6 +119,7 @@ Happy Coding! 👨‍💻
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shams261/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shams261/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Shams261/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shams261/LeetCode-Practice/tree/master/0242-valid-anagram) |
@@ -139,5 +142,6 @@ Happy Coding! 👨‍💻
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shams261/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shams261/LeetCode-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
