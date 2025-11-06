@@ -76,6 +76,7 @@ Happy Coding! 👨‍💻
 | [0217-contains-duplicate](https://github.com/Shams261/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shams261/LeetCode-Practice/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shams261/LeetCode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -97,6 +98,7 @@ Happy Coding! 👨‍💻
 | [0217-contains-duplicate](https://github.com/Shams261/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shams261/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -125,6 +127,7 @@ Happy Coding! 👨‍💻
 | [0217-contains-duplicate](https://github.com/Shams261/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shams261/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
@@ -146,4 +149,24 @@ Happy Coding! 👨‍💻
 | [0049-group-anagrams](https://github.com/Shams261/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shams261/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shams261/LeetCode-Practice/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
