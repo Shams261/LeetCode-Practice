@@ -79,6 +79,7 @@ Happy Coding! 👨‍💻
 | [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shams261/LeetCode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shams261/LeetCode-Practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
@@ -130,6 +131,7 @@ Happy Coding! 👨‍💻
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -155,14 +157,17 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -183,4 +188,16 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shams261/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
