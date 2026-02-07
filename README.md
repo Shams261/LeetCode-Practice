@@ -109,6 +109,7 @@ Happy Coding! 👨‍💻
 | [0007-reverse-integer](https://github.com/Shams261/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Shams261/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/Shams261/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -124,6 +125,7 @@ Happy Coding! 👨‍💻
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Shams261/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -204,4 +206,8 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shams261/LeetCode-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
