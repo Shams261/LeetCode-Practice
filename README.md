@@ -73,6 +73,7 @@ Happy Coding! 👨‍💻
 | [0054-spiral-matrix](https://github.com/Shams261/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Shams261/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Shams261/LeetCode-Practice/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shams261/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shams261/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
@@ -155,6 +156,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shams261/LeetCode-Practice/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shams261/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
