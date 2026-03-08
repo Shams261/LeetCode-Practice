@@ -62,6 +62,7 @@ Happy Coding! 👨‍💻
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shams261/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shams261/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shams261/LeetCode-Practice/tree/master/0031-next-permutation) |
@@ -104,6 +105,7 @@ Happy Coding! 👨‍💻
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shams261/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shams261/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shams261/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shams261/LeetCode-Practice/tree/master/0242-valid-anagram) |
