@@ -5,19 +5,34 @@
 var groupAnagrams = function(strs) {
 
     let map = {}
-    for (let i =0 ; i< strs.length ; i++){
-        let sortedStr = strs[i].split("").sort().join("")
-        if(!map[sortedStr]){
-            map[sortedStr] = [strs[i]]
+
+    for (let i = 0; i< strs.length ;i++){
+        let sortStr = strs[i].split("").sort().join("")
+        if(!map[sortStr]){
+            map[sortStr] = [strs[i]]
         }else{
-
-            map[sortedStr].push(strs[i])
-
+            map[sortStr].push(strs[i])
         }
     }
     return Object.values(map)
-
     
 };
 
-// eat= > 
+
+
+// strs = ["eat","tea","tan","ate","nat","bat"]
+
+// Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
+
+// str => sorted => [aet,aet,ant,aet,ant,abt]
+
+
+// map {
+//     aet : [eat,tea,ate]
+//     ant :[tan,ant]
+//     abt:[bat]
+// }
+// return map(values)
+
+// S = nlogn  * m
+// S = n * m
