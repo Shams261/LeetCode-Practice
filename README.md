@@ -204,6 +204,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shams261/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0707-design-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -224,4 +225,8 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shams261/LeetCode-Practice/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
