@@ -101,6 +101,7 @@ Happy Coding! 👨‍💻
 | [0283-move-zeroes](https://github.com/Shams261/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shams261/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shams261/LeetCode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -229,4 +230,5 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
