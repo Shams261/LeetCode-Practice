@@ -98,6 +98,7 @@ Happy Coding! 👨‍💻
 | [0075-sort-colors](https://github.com/Shams261/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shams261/LeetCode-Practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Shams261/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Shams261/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shams261/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -108,6 +109,7 @@ Happy Coding! 👨‍💻
 | ------- |
 | [0001-two-sum](https://github.com/Shams261/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shams261/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Shams261/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Shams261/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shams261/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
@@ -230,6 +232,7 @@ Happy Coding! 👨‍💻
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shams261/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
