@@ -10,21 +10,29 @@
  * @return {boolean}
  */
 var isPalindrome = function(head) {
-  let arr= []
-  let curr = head
-  while(curr !== null){
-    arr.push(curr.val)
-    curr = curr.next
-  }
-  let left =0 ; let right = arr.length-1
+    let slow = head, fast = head;
 
-  
-  while(left<right){
-    if(arr.length === 1)return true
-    if(arr[left++] != arr[right--]){
-        return false
+    while (fast && fast.next) {
+        slow = slow.next;
+        fast = fast.next.next;
     }
-    
-  }
-return true
+
+    // Reverse second half
+    let prev = null;
+    while (slow) {
+        let temp = slow.next;
+        slow.next = prev;
+        prev = slow;
+        slow = temp;
+    }
+
+    // Compare two halves
+    let first = head, second = prev;
+    while (second) {
+        if (first.val !== second.val) return false;
+        first = first.next;
+        second = second.next;
+    }
+
+    return true;
 };
