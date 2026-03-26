@@ -88,6 +88,7 @@ Happy Coding! 👨‍💻
 | [0704-binary-search](https://github.com/Shams261/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shams261/LeetCode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/Shams261/LeetCode-Practice/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shams261/LeetCode-Practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
 |  |
@@ -162,6 +163,7 @@ Happy Coding! 👨‍💻
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shams261/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shams261/LeetCode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/Shams261/LeetCode-Practice/tree/master/2303-calculate-amount-paid-in-taxes) |
 ## Matrix
 |  |
 | ------- |
