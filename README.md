@@ -79,6 +79,7 @@ Happy Coding! 👨‍💻
 | [0136-single-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shams261/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Shams261/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shams261/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -254,4 +255,8 @@ Happy Coding! 👨‍💻
 | [0328-odd-even-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Shams261/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
