@@ -90,6 +90,7 @@ Happy Coding! 👨‍💻
 | [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shams261/LeetCode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Shams261/LeetCode-Practice/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2942-find-words-containing-character](https://github.com/Shams261/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shams261/LeetCode-Practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
 |  |
@@ -186,6 +187,7 @@ Happy Coding! 👨‍💻
 | [0242-valid-anagram](https://github.com/Shams261/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shams261/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [2942-find-words-containing-character](https://github.com/Shams261/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 ## Divide and Conquer
 |  |
 | ------- |
