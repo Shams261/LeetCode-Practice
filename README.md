@@ -125,6 +125,7 @@ Happy Coding! 👨‍💻
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/Shams261/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shams261/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Happy Coding! 👨‍💻
 | [0771-jewels-and-stones](https://github.com/Shams261/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Shams261/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shams261/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -209,6 +211,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shams261/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
 | ------- |
