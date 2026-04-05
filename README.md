@@ -88,6 +88,7 @@ Happy Coding! 👨‍💻
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Shams261/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Shams261/LeetCode-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/Shams261/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shams261/LeetCode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -125,6 +126,7 @@ Happy Coding! 👨‍💻
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Shams261/LeetCode-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Shams261/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shams261/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -194,6 +196,7 @@ Happy Coding! 👨‍💻
 | [0125-valid-palindrome](https://github.com/Shams261/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shams261/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shams261/LeetCode-Practice/tree/master/0344-reverse-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Shams261/LeetCode-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Shams261/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Shams261/LeetCode-Practice/tree/master/0784-letter-case-permutation) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
