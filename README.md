@@ -156,6 +156,7 @@ Happy Coding! 👨‍💻
 | [0136-single-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shams261/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0784-letter-case-permutation](https://github.com/Shams261/LeetCode-Practice/tree/master/0784-letter-case-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Happy Coding! 👨‍💻
 | [0242-valid-anagram](https://github.com/Shams261/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shams261/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Shams261/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
+| [0784-letter-case-permutation](https://github.com/Shams261/LeetCode-Practice/tree/master/0784-letter-case-permutation) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Shams261/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shams261/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -288,4 +290,5 @@ Happy Coding! 👨‍💻
 | ------- |
 | [0046-permutations](https://github.com/Shams261/LeetCode-Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Shams261/LeetCode-Practice/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/Shams261/LeetCode-Practice/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
