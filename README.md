@@ -91,6 +91,7 @@ Happy Coding! 👨‍💻
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shams261/LeetCode-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/Shams261/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shams261/LeetCode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Shams261/LeetCode-Practice/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2942-find-words-containing-character](https://github.com/Shams261/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
@@ -128,6 +129,7 @@ Happy Coding! 👨‍💻
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shams261/LeetCode-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Shams261/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shams261/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -221,6 +223,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shams261/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
