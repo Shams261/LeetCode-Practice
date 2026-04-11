@@ -119,6 +119,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shams261/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shams261/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shams261/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Shams261/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shams261/LeetCode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -193,6 +194,7 @@ Happy Coding! 👨‍💻
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shams261/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shams261/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shams261/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shams261/LeetCode-Practice/tree/master/0125-valid-palindrome) |
@@ -297,4 +299,8 @@ Happy Coding! 👨‍💻
 | [0046-permutations](https://github.com/Shams261/LeetCode-Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Shams261/LeetCode-Practice/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/Shams261/LeetCode-Practice/tree/master/0784-letter-case-permutation) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shams261/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
