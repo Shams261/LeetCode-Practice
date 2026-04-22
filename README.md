@@ -205,6 +205,7 @@ Happy Coding! 👨‍💻
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shams261/LeetCode-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Shams261/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Shams261/LeetCode-Practice/tree/master/0784-letter-case-permutation) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Shams261/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Shams261/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shams261/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -227,6 +228,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shams261/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Shams261/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shams261/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
@@ -305,4 +307,8 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shams261/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Shams261/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
