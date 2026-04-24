@@ -92,6 +92,7 @@ Happy Coding! 👨‍💻
 | [0704-binary-search](https://github.com/Shams261/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shams261/LeetCode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0912-sort-an-array) |
+| [1146-snapshot-array](https://github.com/Shams261/LeetCode-Practice/tree/master/1146-snapshot-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shams261/LeetCode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Shams261/LeetCode-Practice/tree/master/2303-calculate-amount-paid-in-taxes) |
@@ -132,6 +133,7 @@ Happy Coding! 👨‍💻
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shams261/LeetCode-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Shams261/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
+| [1146-snapshot-array](https://github.com/Shams261/LeetCode-Practice/tree/master/1146-snapshot-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shams261/LeetCode-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shams261/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -157,6 +159,7 @@ Happy Coding! 👨‍💻
 | [0540-single-element-in-a-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shams261/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shams261/LeetCode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1146-snapshot-array](https://github.com/Shams261/LeetCode-Practice/tree/master/1146-snapshot-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,6 +250,7 @@ Happy Coding! 👨‍💻
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shams261/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0707-design-linked-list) |
+| [1146-snapshot-array](https://github.com/Shams261/LeetCode-Practice/tree/master/1146-snapshot-array) |
 ## Queue
 |  |
 | ------- |
