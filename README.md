@@ -156,6 +156,7 @@ Happy Coding! 👨‍💻
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shams261/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shams261/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shams261/LeetCode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -317,4 +318,8 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Shams261/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shams261/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
