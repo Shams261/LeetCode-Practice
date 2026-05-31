@@ -206,6 +206,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shams261/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shams261/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shams261/LeetCode-Practice/tree/master/0058-length-of-last-word) |
@@ -249,6 +250,7 @@ Happy Coding! 👨‍💻
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Shams261/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
