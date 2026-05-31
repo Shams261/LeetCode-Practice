@@ -198,6 +198,7 @@ Happy Coding! 👨‍💻
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Shams261/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shams261/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0509-fibonacci-number) |
@@ -205,6 +206,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shams261/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shams261/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shams261/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shams261/LeetCode-Practice/tree/master/0125-valid-palindrome) |
@@ -313,6 +315,7 @@ Happy Coding! 👨‍💻
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Shams261/LeetCode-Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Shams261/LeetCode-Practice/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/Shams261/LeetCode-Practice/tree/master/0784-letter-case-permutation) |
