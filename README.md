@@ -253,17 +253,20 @@ Happy Coding! 👨‍💻
 | [0020-valid-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Shams261/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shams261/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shams261/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shams261/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0707-design-linked-list) |
 | [1146-snapshot-array](https://github.com/Shams261/LeetCode-Practice/tree/master/1146-snapshot-array) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shams261/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shams261/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 ## Merge Sort
 |  |
 | ------- |
