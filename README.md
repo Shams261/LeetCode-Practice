@@ -118,6 +118,7 @@ Happy Coding! 👨‍💻
 | [0344-reverse-string](https://github.com/Shams261/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shams261/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Shams261/LeetCode-Practice/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Shams261/LeetCode-Practice/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shams261/LeetCode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -214,6 +215,7 @@ Happy Coding! 👨‍💻
 | [0242-valid-anagram](https://github.com/Shams261/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shams261/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Shams261/LeetCode-Practice/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Shams261/LeetCode-Practice/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shams261/LeetCode-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Shams261/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Shams261/LeetCode-Practice/tree/master/0784-letter-case-permutation) |
