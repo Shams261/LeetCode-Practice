@@ -4,33 +4,45 @@
  */
 var isPalindrome = function(s) {
 
-    s = s.toLowerCase()
+//race - a - Car
 
-    let filteredString = ""
-    let rev = ""
-    for(let i=0;i<s.length;i++){
-        if(s[i].match(/[a-z0-9]/i)){
-            filteredString = filteredString + s[i]
-            rev = s[i] + rev
+
+    s = s.toLowerCase() // race - a - car
+    let i =0
+    let j = s.length-1
+    while(i<j){
+        if(!s[i].match(/[a-z0-9]/i)){
+            i++
         }
+        else if (!s[j].match(/[a-z0-9]/i)){
+            j--
+        }
+        else if(s[i] === s[j]){
+            i++
+            j--
+        }
+        else{
+            return false
+        }
+            
+        
     }
-    return filteredString===rev
+    return true
     
 };
 
 
-//s =  " a man, a plan, a canal: Panama"
+// s = race - a - car
+// i =0 (first index)
+// j = s.length-1 (last index)
 
-//convert all into the loxercase
-//remove the space or alphanumeric char then reverse it and check whether it is palindrome or not 
+// if (s[i] === s[j])
+//     i++
+//     j--
 
-// converting into the lowercase
-
-// let filteredString = ""
-// let rev= ""
-
-//T = 0(n)
-//s = o(n)
-
-// filterredstring = aman
-// rev = nama
+//     s = race - a - car
+//     i=r,j=r => i++ and j--
+//     i=a,ja => i++,j--
+//     i=c,jc,i++,j--
+//     i=e ,j--,j--,j--
+//     i=e,j=a, return false
