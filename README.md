@@ -151,6 +151,7 @@ Happy Coding! 👨‍💻
 | [0231-power-of-two](https://github.com/Shams261/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Shams261/LeetCode-Practice/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Happy Coding! 👨‍💻
 | [0784-letter-case-permutation](https://github.com/Shams261/LeetCode-Practice/tree/master/0784-letter-case-permutation) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Shams261/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/Shams261/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shams261/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
@@ -334,6 +336,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Shams261/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Interactive
 |  |
 | ------- |
