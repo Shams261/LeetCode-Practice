@@ -63,6 +63,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shams261/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Shams261/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shams261/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shams261/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shams261/LeetCode-Practice/tree/master/0031-next-permutation) |
@@ -208,6 +209,7 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shams261/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Shams261/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shams261/LeetCode-Practice/tree/master/0049-group-anagrams) |
@@ -345,4 +347,8 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shams261/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shams261/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
