@@ -224,6 +224,7 @@ Happy Coding! 👨‍💻
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shams261/LeetCode-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Shams261/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Shams261/LeetCode-Practice/tree/master/0784-letter-case-permutation) |
+| [1021-remove-outermost-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Shams261/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Shams261/LeetCode-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -264,6 +265,7 @@ Happy Coding! 👨‍💻
 | [0225-implement-stack-using-queues](https://github.com/Shams261/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shams261/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shams261/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -355,4 +357,8 @@ Happy Coding! 👨‍💻
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shams261/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Shams261/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
